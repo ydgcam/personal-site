@@ -16,5 +16,5 @@
 2. Containerization
 3. Hosting & Deployment
 
-### Setup
+## Setup
 - TBD
