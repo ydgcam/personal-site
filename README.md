@@ -11,7 +11,7 @@
 2. Spotify API web client.
 3. Personal blog.
 
-##### 2. (04/01/2024 - 06/16/24)
+### DevOPS (04/01/2024 - 06/16/24)
 1. Server configuration
 2. Containerization
 3. Hosting & Deployment
